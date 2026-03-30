@@ -150,6 +150,6 @@ ai-operator-takehome/
 ## Walkthrough
 
 <video controls width="600" muted>
-  <source src="https://github.com/s-maverick/e2e-ai-onboarding/raw/refs/heads/main/Walkthrough/1.mp4" type="video/mp4">
+  <source src="Walkthrough/1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
