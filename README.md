@@ -146,7 +146,3 @@ ai-operator-takehome/
 
 4. **Launch the App:**
    Open your browser and navigate to `http://localhost:3000` to view the Job Board and interact with the AI pipeline.
-
-## Walkthrough
-
-<video src="https://raw.githubusercontent.com/s-maverick/e2e-ai-onboarding/main/Walkthrough/1.mp4" controls width="600" muted></video>
