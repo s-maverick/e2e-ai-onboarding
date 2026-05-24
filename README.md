@@ -1,4 +1,4 @@
-# AI Product Operator Take-Home: End-to-End Candidate Onboarding System
+# AI Product Operator: End-to-End Candidate Onboarding System
 
 **Author:** Sangam Patil
 
